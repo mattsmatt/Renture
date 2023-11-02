@@ -1,0 +1,6 @@
+Honda Civic#Automatic#5#555900#4.3
+Hyundai Accent#Automatic#5#546400#3.6
+Mazda 6#Automatic#5#1453700#3.9
+Nissan Primastar#Manual#9#1370300#3.8
+Toyota Camry#Automatic#8#897300#3.7
+VW Volkswagen Beetle CC#Manual#2#1090500#3.9
